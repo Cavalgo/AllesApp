@@ -8,12 +8,12 @@ La app se cuentra disponible en App Store y Play Store
 
 ## Android:
 
-[Click here](play.google.com/store/apps/details?id=alles.com.mx.alles_v1&hl=es_MX&gl=US&pli=1)
+[Click here](https://play.google.com/store/apps/details?id=alles.com.mx.alles_v1&hl=en&gl=US)
 
 
 ## App Store:
 
-[Click here](apps.apple.com/us/app/alles-languages-with-ai/id1613048675)
+[Click here](https://apps.apple.com/us/app/alles-languages-with-ai/id1613048675)
 
 ## Features
 - **Interfaz Amigable**
